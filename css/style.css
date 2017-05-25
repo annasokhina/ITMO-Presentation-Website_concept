@@ -192,6 +192,7 @@ a.menu-toggle-btn {
   background-color: #ee6b4f;
 }
 
+.toggle-content .fa {color: #ee6b4f;}
 
 #tab3 div {
   display:inline-block;
